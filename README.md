@@ -19,8 +19,9 @@
 ### Furever Friends Pet Adoption App
 
 <p>
-  <img src="https:///res-console.cloudinary.com/dvkqz0fed/thumbnails/transform/v1/image/upload/v1618466249/https:///res-console.cloudinary.com/dvkqz0fed/thumbnails/transform/v1/image/upload//v1618466249/YXBwL2V0dGJwcm92dHBjc3Y2N3ptdG9w/drilldown" width="300"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618465869/app/b7dhqqshhma686zksfhi.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" width="300"/>
 </p>
 
 ### PuppyLove Dating App
