@@ -38,19 +38,19 @@
 ### PuppyLove Dating App
 <p>Live App: https://puppylove.vercel.app/</p>
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" height="375"/>
 </p>
 
 ### Furever Friends Pet Adoption App
 <p>Live App: https://jwebb8137.github.io/Furever-Friends/</p>
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466487/app/lkdryosjeujerlsbskmf.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466487/app/lkdryosjeujerlsbskmf.jpg" height="375"/>
 </p>
 
 
