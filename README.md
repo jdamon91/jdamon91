@@ -25,7 +25,13 @@
 ### PuppyLove Dating App
 
 <p>
-  <img src="./src/images/Screenshot1.jpg" class="m-5 d-inline-block" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" width="300"/>
+</p>
+
+<p>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" width="300"/>
 </p>
 
 ### Be Inspired Social Media App
