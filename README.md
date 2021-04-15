@@ -8,46 +8,40 @@
 
 <p>Taking an enormous amount of pride and dedication in what I develop I am looking for the same passion and purpose in any future roles or opportunities I take.</p>
 
-<p>Taking an enormous amount of pride and dedication in what I develop I am looking for the same passion and purpose in any future roles or opportunities I take.
+<p>I look forward to connecting with you!
 </p>
 
   
 ## Gallery
 <p>
   Below I've included some screenshots of some of my work. I've also included live links to each project! Please take the time to check them out and hopefully we connect soon.</p>
-
-### Furever Friends Pet Adoption App
+  
+  
+### Be Inspired Social Media App
 
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" height="400" style="margin: 10px"/>
-<div> <div/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466487/app/lkdryosjeujerlsbskmf.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/yhuey5wtny0rfdhkp0fi.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/ktb9wy2cne7xhmw7riuc.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/bz4gzp0ubofir58acskf.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/kv9wupzesd82zgyy4xyx.jpg" height="400"/>
 </p>
 
 ### PuppyLove Dating App
 
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" width="300"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" height="400"/>
 </p>
 
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" width="300"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" width="300"/>
-</p>
-
-### Be Inspired Social Media App
+### Furever Friends Pet Adoption App
 
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/yhuey5wtny0rfdhkp0fi.jpg" width="300"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/ktb9wy2cne7xhmw7riuc.jpg" width="300"/>
-</p>
-
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/bz4gzp0ubofir58acskf.jpg" width="300"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/kv9wupzesd82zgyy4xyx.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466487/app/lkdryosjeujerlsbskmf.jpg" height="400"/>
 </p>
 
 
