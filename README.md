@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHDkkeclBCOig/profile-displaybackgroundimage-shrink_350_1400/0/1617483852259?e=1623888000&v=beta&t=nlM7a4RZU2sFTenoyQEsUkEZPZQaYsTPWbiB1NhIQmM" width="1000"/>
+<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472029/app/dhdf1uoz1l579pwlnhpm.png" width="1000"/>
 
 <p>I am a Full Stack Web Developer specializing in front and back-end technologies such as React, JS, Node, PostgreSQL, MongoDB, & more!</p>
 
