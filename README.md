@@ -31,7 +31,13 @@
 ### Be Inspired Social Media App
 
 <p>
-  <img src="./src/images/Screenshot1.jpg" class="m-5 d-inline-block" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/yhuey5wtny0rfdhkp0fi.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/ktb9wy2cne7xhmw7riuc.jpg" width="300"/>
+</p>
+
+<p>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/bz4gzp0ubofir58acskf.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/kv9wupzesd82zgyy4xyx.jpg" width="300"/>
 </p>
 
 
