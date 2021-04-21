@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472154/app/imzqaegk6fkic2awcjni.png" width="1000"/>
 
-<p>I am a Full Stack Web Developer specializing in front and back-end technologies such as React, JS, Node, PostgreSQL, MongoDB, & more!</p>
+<p>I am a Full Stack Web Developer specializing in front and back-end technologies such as React, JS, Node, Express, PostgreSQL, MongoDB, & more!</p>
 
 <p>I am constantly looking for opportunities or scenarios where technology could be used to solve a problem or improve a situation. This is one of many reasons I find such satisfaction and meaning in what I code and how it helps others.</p>
 
