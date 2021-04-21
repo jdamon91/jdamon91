@@ -1,8 +1,8 @@
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472154/app/imzqaegk6fkic2awcjni.png" width="1000"/>
 
-<p>I am a Full Stack Web Developer specializing in front and back-end technologies such as React, JS, Node, Express, PostgreSQL, MongoDB, & more!</p>
+<p>I am a Full Stack Developer specializing in front and back-end technologies such as React, JS, Node, Express, PostgreSQL, MongoDB, & more!</p>
 
-<p>I am constantly looking for opportunities or scenarios where technology could be used to solve a problem or improve a situation. This is one of many reasons I find such satisfaction and meaning in what I code and how it helps others.</p>
+<p>I am constantly looking for opportunities or scenarios where technology could be used to solve a problem or improve a situation through code. This is one of many reasons I find such satisfaction and meaning in what I create and how it helps others.</p>
 
 <p>Taking an enormous amount of pride and dedication in what I develop I am looking for the same passion and purpose in any future roles or opportunities I take.</p>
 
