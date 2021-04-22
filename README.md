@@ -11,7 +11,7 @@
   Below I've included some screenshots of some of my work. I've also included live links to each project! Please take the time to check them out and hopefully we connect soon.</p>
   
  
-### The PetZone App (under construction)
+### The PawSpot App (under construction)
 <p>Live App: https://y-delta-pearl.vercel.app</p>
 <p>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472515/app/lfyiyxkrhdm9jyqrpyxb.jpg" height="400"/>
