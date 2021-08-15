@@ -10,6 +10,16 @@
 <p>
   Below I've included some screenshots of some of my work. I've also included live links to each project! Please take the time to check them out and hopefully we connect soon.</p>
   
+  
+  ### Waferly
+<p>Live App: https://waferly-frontend.vercel.app/</p>
+<p>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/x2zcglev9ho9tnewljrm.png" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/zk8ta9khglsqeiu8apw1.png" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/nnti7myagqj5ck4qyz51.png" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/yjbigfrejkddx4oaw7jj.png" height="400"/>
+</p>
+  
  
 ### The PawSpot App (under construction)
 <p>Live App: https://y-delta-pearl.vercel.app</p>
