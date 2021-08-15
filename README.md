@@ -14,10 +14,10 @@
   ### Waferly
 <p>Live App: https://waferly-frontend.vercel.app/</p>
 <p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/x2zcglev9ho9tnewljrm.png" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/zk8ta9khglsqeiu8apw1.png" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/nnti7myagqj5ck4qyz51.png" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/yjbigfrejkddx4oaw7jj.png" height="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/x2zcglev9ho9tnewljrm.png" width="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/zk8ta9khglsqeiu8apw1.png" width="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/nnti7myagqj5ck4qyz51.png" width="400"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/yjbigfrejkddx4oaw7jj.png" width="400"/>
 </p>
   
  
