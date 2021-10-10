@@ -11,7 +11,7 @@
   Below I've included some screenshots of some of my work. I've also included live links to each project! Please take the time to check them out and hopefully we connect soon.</p>
   
 
-### Like Now (Professional)
+### Like Now (Professional) (Under Construction)
 <p>
   <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.06.02.png?alt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" width="400"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.11.53.png?alt=media&token=7198ecce-125b-441a-8fca-d07665757f94lt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" width="400"/>
