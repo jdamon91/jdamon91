@@ -13,11 +13,13 @@
 
 ### Like Now (Professional) (Under Construction)
 <p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.06.02.png?alt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" width="400"/>
-  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.11.53.png?alt=media&token=7198ecce-125b-441a-8fca-d07665757f94lt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" width="400"/>
-  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.33.png?alt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" width="400"/>
-  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.09.39.png?alt=media&token=3d1ac348-22ef-4275-96fc-87f1f11189e2" width="400"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.09.png?alt=media&token=4ff2d9db-86d3-44c8-83af-41bb71b45959lt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" width="400"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.06.02.png?alt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" width="300"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.11.53.png?alt=media&token=7198ecce-125b-441a-8fca-d07665757f94lt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" width="300"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.33.png?alt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" width="300"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.09.39.png?alt=media&token=3d1ac348-22ef-4275-96fc-87f1f11189e2" width="300"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.09.png?alt=media&token=4ff2d9db-86d3-44c8-83af-41bb71b45959lt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ie91vwdlyo3l7nlfblbc.png" width="300"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ltwzfxqtba51nb1zecls.png" width="300"/>
 </p>
   
   ### Waferly (Professional)
