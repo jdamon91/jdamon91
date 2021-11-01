@@ -20,8 +20,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.09.png?alt=media&token=4ff2d9db-86d3-44c8-83af-41bb71b45959lt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" height="375"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ie91vwdlyo3l7nlfblbc.png" height="375"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ltwzfxqtba51nb1zecls.png" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635299228/be-inspired-media/dtt3qgf7v138thmqnm6m.png" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635299228/be-inspired-media/yjcqfxtzg392afocz71y.png" height="375"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797675/be-inspired-media/w8fennzi00gng248drjb.png" height="375"/>
 </p>
   
   ### Waferly (Professional)
