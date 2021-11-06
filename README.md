@@ -17,14 +17,15 @@
 
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1636123459/be-inspired-media/nt4eoxrkkhuodl5ith44.png" height="375"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1636241560/be-inspired-media/vedm4p5iaitp7vz3jmmq.png" height="375"/>
+<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797674/be-inspired-media/cejplqi4im2oovwxyjnn.png" height="375"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797675/be-inspired-media/w8fennzi00gng248drjb.png" height="375"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.11.53.png?alt=media&token=7198ecce-125b-441a-8fca-d07665757f94lt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" height="375"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.33.png?alt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" height="375"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.09.39.png?alt=media&token=3d1ac348-22ef-4275-96fc-87f1f11189e2" height="375"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.10.09.png?alt=media&token=4ff2d9db-86d3-44c8-83af-41bb71b45959lt=media&token=4b09675f-0c3f-4b81-9efe-35f3f0bf036c" height="375"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ie91vwdlyo3l7nlfblbc.png" height="375"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635298730/be-inspired-media/ltwzfxqtba51nb1zecls.png" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797674/be-inspired-media/cejplqi4im2oovwxyjnn.png" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797675/be-inspired-media/w8fennzi00gng248drjb.png" height="375"/>
+  
 </p>
   
   ### Waferly (Professional)
