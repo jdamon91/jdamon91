@@ -15,8 +15,11 @@
 <p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store. More to come!</p>
 <p>
 
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1637770072/be-inspired-media/u5vbijn1hjmbqdvrmwrm.png" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1636241560/be-inspired-media/vedm4p5iaitp7vz3jmmq.png" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1638826721/jffqockpvqqsuo55bjhh.png" height="375"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1638826720/o2gdjggxex7lxxd6lx4g.png" height="375"/>
+   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1638826720/wttlcahk6g4odavhxlro.png" height="375"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1638826720/xiwgxegsopfdwhposupw.png" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1638826720/fpn54ci93vggvub89r73.png" height="375"/>
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797674/be-inspired-media/cejplqi4im2oovwxyjnn.png" height="375"/>
     <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1635797675/be-inspired-media/w8fennzi00gng248drjb.png" height="375"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/likenow-294a5.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-10-09%20at%2022.11.53.png?alt=media&token=7198ecce-125b-441a-8fca-d07665757f94lt=media&token=f76e76b2-3cef-4cb5-84a3-9a53d8576bdf" height="375"/>
