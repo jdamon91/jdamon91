@@ -2,17 +2,22 @@
 
 <p>I am a Full Stack Developer specializing in front and back-end technologies such as React, React Native, JS, Node, Express, PostgreSQL, MongoDB, D3 & more!</p>
 
-<p>Always on the lookout for opportunities or scenarios where technology and coding could be used to solve problems or improve a situation I find a deep level of satisfaction and meaning in what I create and how it helps others.</p>
+<p>Always on the lookout for opportunities or scenarios where technology and coding could be used to solve problems or improve a situation. I find a deep level of satisfaction and meaning in what I create and how it helps others.</p>
 
-<p>Creating and developing applications that are modern and responsive in design, clean and convention in approach, and integrated with secure and authenticated data storage and retrieval I take an enormous amount of pride and dedication into what I develop. I am looking to bring that same passion and purpose into any future roles or opportunities I take.</p>
+<p>Creating and developing applications that are modern and responsive in design, clean and convention in approach, and integrated with secure and authenticated data storage and retrieval I take an enormous amount of pride and dedication into what I develop. I am looking to bring that same passion and purpose into any future roles or opportunities. I look forward to connecting!</p>
 
 ## Gallery
-<p>
-  Below I've included some screenshots of some of my work. Please take the time to check them out and hopefully we connect soon.</p>
+<p>Below I've included some screenshots of some of my work. Please take the time to check them out and hopefully we connect soon.</p>
   
+### ListedB (Professional) (Beta Testing)
+<p>https://www.listedb.com</p>
+<p>Role: Full Stack Developer</p>
+<p>ListedB is a social booking app for beauty & wellness services within the Black community. As a react native full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
+<p>
 
-### Like Now (Professional) (Under Construction)
-<p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store. More to come!</p>
+### Like Now (Professional) (Beta Testing)
+  <p>Role: Lead Full Stack Developer</p>
+<p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
 <p>
 
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128988/hndazbsaemkpj2shawk8.png" height="375"/>
