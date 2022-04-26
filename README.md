@@ -29,8 +29,20 @@
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128987/st7hdipqrmau6ptgitqm.png" height="375"/>
     <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640198283/gdegzdpdzzadaocnjxsw.png" height="375"/>
 </p>
+
+### The Paw Spot (Personal) (Under Construction)
+<p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
+<p>
+
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993506/cmimnkg7hb9i3yud4vtb.jpg" height="375"/>
+   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/zhzlm3rqbpmml3ueumkl.jpg" height="375"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/jne53kuuertlq97lqwov.jpg" height="375"/>
+</p>
   
   ### Waferly (Professional)
+   <p>Role: Lead Full Stack Developer</p>
+<p>A financial analysis suite built for startup companies to accurately track and project organizational KPI's, predicted growth, and much more. A react based application powered by a Java backend. D3 driven analytical charts and graphs give users a visual representation of every aspect of their business.</p>
+<p>
 <p>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/x2zcglev9ho9tnewljrm.png" width="400"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/zk8ta9khglsqeiu8apw1.png" width="400"/>
