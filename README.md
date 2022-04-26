@@ -36,9 +36,9 @@
 <p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
 <p>
 
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993506/cmimnkg7hb9i3yud4vtb.jpg" height="375"/>
-   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/zhzlm3rqbpmml3ueumkl.jpg" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/jne53kuuertlq97lqwov.jpg" height="375"/>
+  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993506/cmimnkg7hb9i3yud4vtb.jpg" height="350"/>
+   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/zhzlm3rqbpmml3ueumkl.jpg" height="350"/>
+    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/jne53kuuertlq97lqwov.jpg" height="350"/>
 </p>
   
   ### Waferly (Professional)
