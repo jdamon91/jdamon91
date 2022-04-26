@@ -14,6 +14,7 @@
 <p>Role: Full Stack Developer</p>
 <p>ListedB is a social booking app for beauty & wellness services within the Black community. As a react native full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
 <p>
+  <p></p>
 
 ### Like Now (Professional) (Beta Testing)
   <p>Role: Lead Full Stack Developer</p>
@@ -29,6 +30,7 @@
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128987/st7hdipqrmau6ptgitqm.png" height="375"/>
     <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640198283/gdegzdpdzzadaocnjxsw.png" height="375"/>
 </p>
+
 
 ### The Paw Spot (Personal) (Under Construction)
 <p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
