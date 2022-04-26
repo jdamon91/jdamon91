@@ -6,8 +6,7 @@
 
 <p>Creating and developing applications that are modern and responsive in design, clean and convention in approach, and integrated with secure and authenticated data storage and retrieval I take an enormous amount of pride and dedication into what I develop. I am looking to bring that same passion and purpose into any future roles or opportunities. I look forward to connecting!</p>
 
-## Gallery
-<p>Below I've included some screenshots of some of my work. Please take the time to check them out and hopefully we connect soon.</p>
+## My Portfolio
   
 ### ListedB (Professional) (Beta Testing)
 <p>https://www.listedb.com</p>
