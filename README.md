@@ -17,18 +17,11 @@
   <p></p>
 
 ### Like Now (Professional) (Beta Testing)
+ <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1651313559/eveykvgve0fcdjed68vo.png" height="375"/>
   <p>Role: Lead Full Stack Developer</p>
 <p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
 <p>
-
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128988/hndazbsaemkpj2shawk8.png" height="375"/>
-   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128988/lcjj2o5ytn5u3xzguzw8.png" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128986/imvybrocw45zmmjj3gpo.png" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128986/schujla79bdg8irvewz3.png" height="375"/>
-   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128988/igwodtwtnjs9corptldg.png" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128985/vwayodkhi5yeartj2l1g.png" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640128987/st7hdipqrmau6ptgitqm.png" height="375"/>
-    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1640198283/gdegzdpdzzadaocnjxsw.png" height="375"/>
+  
 </p>
 
 
