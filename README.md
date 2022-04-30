@@ -40,6 +40,7 @@
   
   ### Waferly (Professional)
    <p>Role: Lead Full Stack Developer</p>
+   <p>Stack: React, Java</p>
 <p>A financial analysis suite built for startup companies to accurately track and project organizational KPI's, predicted growth, and much more. A react based application powered by a Java backend. D3 driven analytical charts and graphs give users a visual representation of every aspect of their business.</p>
 <p>
 <p>
