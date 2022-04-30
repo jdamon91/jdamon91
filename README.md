@@ -18,7 +18,7 @@
   <p></p>
 
 ### Like Now (Professional) (Beta Testing)
- <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1651313559/eveykvgve0fcdjed68vo.png" height="375"/>
+ <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1651313559/eveykvgve0fcdjed68vo.png" height="350"/>
   <p>Role: Lead Full Stack Developer</p>
   <p>Stack: React Native, Firebase</p>
 <p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
