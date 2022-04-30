@@ -12,6 +12,7 @@
 <p>https://www.listedb.com</p>
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650994135/tenag7eph7yy9dbhwdjy.png" height="375"/>
 <p>Role: Full Stack Developer</p>
+<p>Stack: React Native, MongoDB, Node</p>
 <p>ListedB is a social booking app for beauty & wellness services within the Black community. As a react native full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
 <p>
   <p></p>
@@ -19,6 +20,7 @@
 ### Like Now (Professional) (Beta Testing)
  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1651313559/eveykvgve0fcdjed68vo.png" height="375"/>
   <p>Role: Lead Full Stack Developer</p>
+  <p>Stack: React Native, Firebase</p>
 <p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
 <p>
   
@@ -26,12 +28,12 @@
 
 
 ### The Paw Spot (Personal) (Under Construction)
-<p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
-<p>
-
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993506/cmimnkg7hb9i3yud4vtb.jpg" height="350"/>
+<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993506/cmimnkg7hb9i3yud4vtb.jpg" height="350"/>
    <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/zhzlm3rqbpmml3ueumkl.jpg" height="350"/>
     <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650993505/jne53kuuertlq97lqwov.jpg" height="350"/>
+    <p>Stack: React Native, Firebase</p>
+<p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
+<p>
 </p>
   
   ### Waferly (Professional)
