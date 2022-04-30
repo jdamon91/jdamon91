@@ -51,8 +51,9 @@
 </p>
   
  
-### The PawSpot App (under construction) (Personal)
+### The PawSpot App (under construction) (Personal) (Mobile App)
 <p>Live App: https://y-delta-pearl.vercel.app</p>
+<p>Stack: React, Node, Express</p>
 <p>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472515/app/lfyiyxkrhdm9jyqrpyxb.jpg" height="400"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472527/app/diniortrfkjnxgtwlvw1.jpg" height="400"/>
