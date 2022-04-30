@@ -10,7 +10,7 @@
   
 ### ListedB (Professional) (Beta Testing)
 <p>https://www.listedb.com</p>
-<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650994135/tenag7eph7yy9dbhwdjy.png" height="375"/>
+<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1650994135/tenag7eph7yy9dbhwdjy.png" height="300"/>
 <p>Role: Full Stack Developer</p>
 <p>Stack: React Native, MongoDB, Node</p>
 <p>ListedB is a social booking app for beauty & wellness services within the Black community. As a react native full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
