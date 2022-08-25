@@ -1,10 +1,18 @@
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472154/app/imzqaegk6fkic2awcjni.png" width="1000"/>
 
-<p>I am a Full Stack Developer specializing in front and back-end technologies such as React, React Native, JS, Node, Express, PostgreSQL, MongoDB, D3 & more!</p>
+<p>I have experienced few things in life that all at once can bring out the incredible amount of passion and satisfaction I get from coding ... then immediately make me want to faceplant into the nearest wall. 
 
-<p>Always on the lookout for opportunities or scenarios where technology and coding could be used to solve problems or improve a situation. I find a deep level of satisfaction and meaning in what I create and how it helps others.</p>
+I have too many examples to count having run into situations, hours on end, where I spent incredible amounts of time debugging an error or trying to force a block of code to do exactly what I want. 
 
-<p>Creating and developing applications that are modern and responsive in design, clean and convention in approach, and integrated with secure and authenticated data storage and retrieval I take an enormous amount of pride and dedication into what I develop. I am looking to bring that same passion and purpose into any future roles or opportunities. I look forward to connecting!</p>
+What continues to amaze me though is that no matter how long it takes, no matter how frustrated I become, as soon as I insert that missing piece into the puzzle ... "Houston, we have lift off 🚀 ." I am on cloud 9 ☁️
+
+It's in this continuous fight for humanity I find one of my true passions in life ... Writing code 💻!
+
+I am currently focused on developing mobile applications in React Native, working as a Full Stack engineer responsible for building out frontend UI, backend API endpoints, and a lot more. 
+
+Wrapping up my B.A in Cyber Security I plan to start my Master's in Cybersecurity and Information Assurance around the end of this year. (I also find passion in breaking into things, legally of course 👀). 
+
+Always looking to connect with tech enthusiasts and those who share in the neverending struggle of writing perfect code 🤓</p>
 
 ## My Portfolio
   
