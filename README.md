@@ -1,18 +1,12 @@
 <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472154/app/imzqaegk6fkic2awcjni.png" width="1000"/>
 
-<p>I have experienced few things in life that all at once can bring out the incredible amount of passion and satisfaction I get from coding ... then immediately make me want to faceplant into the nearest wall. 
+<p>I am a full-stack software engineer specializing in mobile app development. I have been developing mobile and web apps using React Native, React, Node, and a number of backend API technologies such as MongoDB, Firebase, MySQL and more.
 
-I have too many examples to count having run into situations, hours on end, where I spent incredible amounts of time debugging an error or trying to force a block of code to do exactly what I want. 
+I am currently working with two professional teams as a full-stack engineer. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
 
-What continues to amaze me though is that no matter how long it takes, no matter how frustrated I become, as soon as I insert that missing piece into the puzzle ... "Houston, we have lift off 🚀 ." I am on cloud 9 ☁️
+Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 
-It's in this continuous fight for humanity I find one of my true passions in life ... Writing code 💻!
-
-I am currently focused on developing mobile applications in React Native, working as a Full Stack engineer responsible for building out frontend UI, backend API endpoints, and a lot more. 
-
-Wrapping up my B.A in Cyber Security I plan to start my Master's in Cybersecurity and Information Assurance around the end of this year. (I also find passion in breaking into things, legally of course 👀). 
-
-Always looking to connect with tech enthusiasts and those who share in the neverending struggle of writing perfect code 🤓</p>
+Always looking to connect with tech enthusiasts who are just as obsessed with coding as I am! 🤓</p>
 
 ## My Portfolio
   
