@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472154/app/imzqaegk6fkic2awcjni.png" width="1000"/>
+<img src="https://user-images.githubusercontent.com/67440753/194157158-c94ff2a1-5b97-43cc-ba08-1ed7ec11f380.png" width="1000"/>
 
 <p>I am a full-stack software engineer specializing in mobile app development. I have been developing mobile and web apps using React Native, React, Node, and a number of backend API technologies such as MongoDB, Firebase, MySQL and more.
 
