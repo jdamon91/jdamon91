@@ -12,7 +12,7 @@ Always looking to connect with tech enthusiasts who are just as obsessed with co
   
 ### ListedB (Professional)
 <p>https://www.listedb.com</p>
-<img src="https://user-images.githubusercontent.com/67440753/194155828-52df3153-1b61-4330-8937-6ce3fcdfac36.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/67440753/194155828-52df3153-1b61-4330-8937-6ce3fcdfac36.png" height="350"/>
 <p>Role: Full Stack Developer</p>
 <p>Stack: React Native, MongoDB, Node</p>
 <p>ListedB is a social booking app for beauty & wellness services within the Black community. As a react native full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
@@ -20,7 +20,7 @@ Always looking to connect with tech enthusiasts who are just as obsessed with co
   <p></p>
 
 ### Like Now (Professional)
- <img src="https://user-images.githubusercontent.com/67440753/194156135-4585b45c-f2ed-412c-8ee1-589c035967af.png" height="300"/>
+ <img src="https://user-images.githubusercontent.com/67440753/194156135-4585b45c-f2ed-412c-8ee1-589c035967af.png" height="350"/>
   <p>Role: Lead Full Stack Developer</p>
   <p>Stack: React Native, Firebase</p>
 <p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
