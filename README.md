@@ -1,13 +1,13 @@
 ![Blue Futuristic Technology Linkedln Banner (1)](https://user-images.githubusercontent.com/67440753/196847426-24dc47e1-fc89-4653-9328-7b14f8e5dd30.png)
 
 
-<p>I am a full-stack software engineer specializing in mobile app development. I have been developing mobile and web apps using React Native, React, Node, and a number of backend API technologies such as MongoDB, Firebase, MySQL and more.
+<p>As a highly skilled full-stack software engineer with a focus on mobile app development, I specialize in creating dynamic and innovative software solutions that exceed client expectations. With expertise in React Native, React, Typescript, Node, and a wide range of backend API technologies such as MongoDB, Firebase, MySQL, and GraphQL, I have a proven track record of delivering robust and scalable applications that meet business objectives.
 
-I am currently working with two professional teams as a full-stack engineer. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
+Currently, I am working with three professional teams as a full-stack engineer. From planning and design to testing and deployment, I am involved in all stages of the software development cycle. My day-to-day responsibilities may involve analyzing algorithms, debugging code, brainstorming new ideas, or integrating new systems. As a result, I am constantly challenged to learn new skills and stay up-to-date with emerging trends and technologies.
 
-Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+What I love most about software development is the opportunity to collaborate with people from diverse backgrounds and disciplines. The software development lifecycle requires close collaboration between different teams and departments, and as a natural people person, I thrive in this environment. Whether it's working with designers to create an intuitive user interface or collaborating with data scientists to develop complex algorithms, I enjoy building new relationships and working towards a common goal.
 
-Always looking to connect with tech enthusiasts who are just as obsessed with coding as I am! 🤓</p>
+If you're a tech enthusiast who shares my passion for coding and innovation, I'd love to connect with you! Let's explore new ideas and push the boundaries of what's possible in software development.</p>
 
 ## My Portfolio
   
