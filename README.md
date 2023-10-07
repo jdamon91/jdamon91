@@ -1,4 +1,4 @@
-![Blue Futuristic Technology Linkedln Banner (1)](https://user-images.githubusercontent.com/67440753/196847426-24dc47e1-fc89-4653-9328-7b14f8e5dd30.png)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/jdamon91/Jwebb8137/assets/67440753/8aa890cb-0ac7-4ebf-a3f2-15dc022af239)
 
 
 <p>As a highly skilled full-stack software engineer with a focus on mobile app development, I specialize in creating dynamic and innovative software solutions that exceed client expectations. With expertise in React Native, React, Typescript, Node, and a wide range of backend API technologies such as MongoDB, Firebase, MySQL, and GraphQL, I have a proven track record of delivering robust and scalable applications that meet business objectives.
