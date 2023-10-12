@@ -10,7 +10,15 @@ What I love most about software development is the opportunity to collaborate wi
 If you're a tech enthusiast who shares my passion for coding and innovation, I'd love to connect with you! Let's explore new ideas and push the boundaries of what's possible in software development.</p>
 
 ## My Portfolio
-  
+
+### Hippo Education (Professional)
+<p>https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US&gl=US</p>
+<img src="https://github.com/jdamon91/jdamon91/assets/67440753/2d8a8f64-f735-4a8d-8634-2a03dedd5a59" height="300"/>
+
+<p>Role: React Native Developer</p>
+<p>Stack: React Native, GraphQL, Node</p>
+<p>Hippo Education is a podcast based listening app geared towards medical professionals looking to expand their knowledge and earn CME accredidation</p>
+
 ### ListedB (Professional)
 <p>https://www.listedb.com</p>
 <img src="https://user-images.githubusercontent.com/67440753/194155828-52df3153-1b61-4330-8937-6ce3fcdfac36.png" height="300"/>
