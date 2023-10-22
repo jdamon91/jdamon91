@@ -62,6 +62,16 @@ If you're a tech enthusiast who shares my passion for coding and innovation, I'd
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/nnti7myagqj5ck4qyz51.png" width="400"/>
   <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/yjbigfrejkddx4oaw7jj.png" width="400"/>
 </p>
+
+
+### ByteJobs (Personal) (Mobile App)
+<p>Github Repo: https://github.com/jdamon91/ByteJobs-ExpoRouter
+<p>Stack: Expo, Expo Router, React Native</p>
+<p>
+  <img src="https://github.com/jdamon91/jdamon91/assets/67440753/8fd0c60e-ff63-4c3a-ab94-f70e7aece91c" height="700"/>
+<img src="https://github.com/jdamon91/jdamon91/assets/67440753/6478e8b1-93fb-4123-a8f1-134ad72ecc1e" height="700"/>
+ <img src="https://github.com/jdamon91/jdamon91/assets/67440753/e108fcfc-45bc-4908-93cc-21f86f290635" height="700"/>
+</p>
   
  
 ### The PawSpot App (under construction) (Personal) (Mobile App)
