@@ -44,6 +44,10 @@ If you're a tech enthusiast who shares my passion for coding and innovation, I'd
 ### ByteJobs (Personal) (Mobile App)
 <p>Github Repo: https://github.com/jdamon91/ByteJobs-ExpoRouter
 <p>Stack: Expo, Expo Router, React Native</p>
+
+https://github.com/jdamon91/jdamon91/assets/67440753/022b18e6-6474-4ca3-8f90-0391567d4125
+
+<b>Screenshots:</b>
 <p>
   <img src="https://github.com/jdamon91/jdamon91/assets/67440753/8fd0c60e-ff63-4c3a-ab94-f70e7aece91c" height="500"/>
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/6478e8b1-93fb-4123-a8f1-134ad72ecc1e" height="500"/>
