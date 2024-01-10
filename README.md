@@ -17,7 +17,7 @@ If you're a technology aficionado with a fervor for coding and innovation, I'd b
 
 <p>Role: React Native Developer</p>
 <p>Stack: React Native, GraphQL, Node</p>
-<p>Hippo Education is a podcast based listening app geared towards medical professionals looking to expand their knowledge and earn CME accredidation</p>
+<p>Hippo Education is a podcast based listening app geared towards medical professionals looking to expand their knowledge and earn CME accreditation</p>
 
 ### ListedB (Professional)
 <p>https://www.listedb.com</p>
