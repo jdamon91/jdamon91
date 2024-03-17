@@ -1,13 +1,9 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/jdamon91/Jwebb8137/assets/67440753/8aa890cb-0ac7-4ebf-a3f2-15dc022af239)
 
 
-<p>As an accomplished full-stack software engineer with a penchant for mobile app development, my expertise lies in crafting dynamic, innovative software solutions that not only meet but surpass client expectations. My proficiency encompasses a diverse array of technologies, including React Native, React, Typescript, Node, along with a comprehensive understanding of backend API technologies such as MongoDB, Firebase, MySQL, and GraphQL. This diverse skill set has empowered me to consistently deliver robust, scalable applications that align seamlessly with business goals.
-
-In my current role, I collaborate with two professional teams as a full-stack mobile engineer, engaging in every phase of the software development lifecycle. My responsibilities are multifaceted, ranging from algorithm analysis and code debugging to brainstorming cutting-edge ideas and integrating novel systems. This role continuously challenges me to expand my skill set and stay abreast of evolving trends and technologies in the field.
-
-What I find most gratifying about software development is the chance to collaborate with individuals from varied backgrounds and disciplines. Effective software development necessitates a synergistic effort among different teams and departments. As someone who naturally excels in interpersonal interactions, I find this aspect of my job particularly rewarding. Whether it's partnering with designers to forge an intuitive user interface or teaming up with data scientists to craft complex algorithms, I relish the opportunity to build new connections and work collectively towards a shared objective.
-
-If you're a technology aficionado with a fervor for coding and innovation, I'd be thrilled to connect. Let's join forces to explore avant-garde ideas and extend the frontiers of what's achievable in software development.</p>
+<p>
+ As a seasoned full-stack software engineer specializing in mobile app development, I possess a profound expertise in building dynamic, user-centric software solutions that exceed expectations. My skill set spans React Native, React, Typescript, Node.js, and various backend technologies, allowing me to deliver scalable and robust applications. Driven by a passion for innovation and a commitment to excellence, I thrive on collaboration and continuous learning, leveraging my diverse technical background and interpersonal skills to contribute to team success and technological advancement.
+</p>
 
 ## My Portfolio
 
