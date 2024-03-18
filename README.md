@@ -1,5 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/jdamon91/Jwebb8137/assets/67440753/8aa890cb-0ac7-4ebf-a3f2-15dc022af239)
-
+![White Minimalist Elegant Handwritten LinkedIn Banner](https://github.com/jdamon91/jdamon91/assets/67440753/bdff00ac-2773-42eb-a5a1-dd0edff6e6e4)
 
 <p>
  As a seasoned full-stack software engineer specializing in mobile app development, I possess a profound expertise in building dynamic, user-centric software solutions that exceed expectations. My skill set spans React Native, React, Typescript, Node.js, and various backend technologies, allowing me to deliver scalable and robust applications. Driven by a passion for innovation and a commitment to excellence, I thrive on collaboration and continuous learning, leveraging my diverse technical background and interpersonal skills to contribute to team success and technological advancement.
