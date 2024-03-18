@@ -31,7 +31,7 @@
 
 <p>Role: Creator</p>
 <p>Stack: React Native, Expo, MongoDB, Node</p>
-<p>Tail Trail is a community-focused app designed to reunite lost pets with their owners through the power of collective effort. This platform enables users to quickly post alerts for lost and found pets, incorporating photos, detailed descriptions, and last seen locations to expedite the search process. Tail Trail brings together a network of pet lovers and local volunteers, utilizing direct messaging, map integration, and community engagement features to spread the word and coordinate recovery efforts efficiently. More than just an app, Tail Trail is a commitment to ensuring every lost pet finds their way back to a loving home, supported by the kindness and vigilance of a united community..</p>
+<p>Tail Trail is a community-focused app designed to reunite lost pets with their owners through the power of collective effort. This platform enables users to quickly post alerts for lost and found pets, incorporating photos, detailed descriptions, and last seen locations to expedite the search process. Tail Trail brings together a network of pet lovers and local volunteers, utilizing direct messaging, map integration, and community engagement features to spread the word and coordinate recovery efforts efficiently. More than just an app, Tail Trail is a commitment to ensuring every lost pet finds their way back to a loving home, supported by the kindness and vigilance of a united community.</p>
 <p>
 <img width="705" alt="Modern App Download Promotion Facebook Post" src="https://github.com/jdamon91/jdamon91/assets/67440753/515c5ecb-f240-4634-b281-22aff6bcd738">
 
