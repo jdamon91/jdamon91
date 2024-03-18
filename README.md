@@ -1,7 +1,7 @@
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner (8)](https://github.com/jdamon91/jdamon91/assets/67440753/44593331-7b3d-4f08-afdf-8ec0cdf175b3)
 
 <p>
- As a seasoned full-stack software engineer specializing in mobile app development, I possess a profound expertise in building dynamic, user-centric software solutions that exceed expectations. My skill set spans React Native, React, Typescript, Node.js, and various backend technologies, allowing me to deliver scalable and robust applications. Driven by a passion for innovation and a commitment to excellence, I thrive on collaboration and continuous learning, leveraging my diverse technical background and interpersonal skills to contribute to team success and technological advancement.
+    As a seasoned full-stack software engineer specializing in mobile app development, I possess a profound expertise in building dynamic, user-centric software solutions that exceed expectations. My skill set spans React Native, React, Typescript, Node.js, and various backend technologies, allowing me to deliver scalable and robust applications. Driven by a passion for innovation and a commitment to excellence, I thrive on collaboration and continuous learning, leveraging my diverse technical background and interpersonal skills to contribute to team success and technological advancement.
 </p>
 
 ## My Portfolio
