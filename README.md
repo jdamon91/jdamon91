@@ -26,6 +26,16 @@
 <img width="705" alt="Modern App Download Promotion Facebook Post (1)" src="https://user-images.githubusercontent.com/67440753/196846898-ccbba58e-cc40-46cf-93b3-72e841f80f3d.png">
 <img width="705" alt="Modern App Download Promotion Facebook Post (2)" src="https://user-images.githubusercontent.com/67440753/196846905-ccee9a8b-7500-4c3d-8a9c-56ed30414387.png">
 
+### Tail Trail (Personal)
+<img src="https://github.com/jdamon91/jdamon91/assets/67440753/3f9b3f5e-ea5f-4a6b-be0f-13a62e3ebf94" height="300"/>
+
+<p>Role: Creator</p>
+<p>Stack: React Native, Expo, MongoDB, Node</p>
+<p>Tail Trail is a community-focused app designed to reunite lost pets with their owners through the power of collective effort. This platform enables users to quickly post alerts for lost and found pets, incorporating photos, detailed descriptions, and last seen locations to expedite the search process. Tail Trail brings together a network of pet lovers and local volunteers, utilizing direct messaging, map integration, and community engagement features to spread the word and coordinate recovery efforts efficiently. More than just an app, Tail Trail is a commitment to ensuring every lost pet finds their way back to a loving home, supported by the kindness and vigilance of a united community..</p>
+<p>
+<img width="705" alt="Modern App Download Promotion Facebook Post" src="https://github.com/jdamon91/jdamon91/assets/67440753/515c5ecb-f240-4634-b281-22aff6bcd738">
+
+
 ### Like Now (Professional)
  <img src="https://user-images.githubusercontent.com/67440753/194156135-4585b45c-f2ed-412c-8ee1-589c035967af.png" height="300"/>
   <p>Role: Lead Full Stack Developer</p>
