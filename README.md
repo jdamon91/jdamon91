@@ -10,7 +10,7 @@
 <p>https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US&gl=US</p>
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/2d8a8f64-f735-4a8d-8634-2a03dedd5a59" height="300"/>
 
-<p>Role: React Native Developer</p>
+<p>Role: Senior React Native Developer</p>
 <p>Stack: React Native, GraphQL, Node</p>
 <p>Hippo Education is a podcast based listening app geared towards medical professionals looking to expand their knowledge and earn CME accreditation</p>
 
