@@ -9,6 +9,16 @@
 
 ## My Portfolio
 
+### NestleAI 
+
+<p><strong>Role:</strong> Founder & Lead Engineer</p>
+<p><strong>Stack:</strong> React Native, Expo, TypeScript, Node.js, PostgreSQL, AI integrations</p>
+<p><strong>Website:</strong> <a href="https://nestleai.app" target="_blank">https://nestleai.app</a></p>
+<p>
+NestleAI is a production-ready AI-powered mobile application for parents, designed to centralize daily tracking, memories, insights, and personalized support into a single, polished iOS and Android experience.
+</p>
+
+
 ### Hippo Education (Professional)
 <p>https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US&gl=US</p>
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/2d8a8f64-f735-4a8d-8634-2a03dedd5a59" height="300"/>
