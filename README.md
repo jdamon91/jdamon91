@@ -11,6 +11,8 @@
 
 ### NestleAI 
 
+<img src="https://github.com/jdamon91/jdamon91/assets/67440753/46de71f5-8454-47bc-bb62-a8ed7ba0f315" height="300"/>
+<p />
 <p><strong>Role:</strong> Founder & Lead Engineer</p>
 <p><strong>Stack:</strong> React Native, Expo, TypeScript, Node.js, PostgreSQL, AI integrations</p>
 <p><strong>Website:</strong> <a href="https://nestleai.app" target="_blank">https://nestleai.app</a></p>
