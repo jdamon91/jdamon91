@@ -15,7 +15,7 @@
 <p><strong>Stack:</strong> React Native, Expo, TypeScript, Node.js, PostgreSQL, AI integrations</p>
 <p><strong>Website:</strong> <a href="https://nestleai.app" target="_blank">https://nestleai.app</a></p>
 <p>
-NestleAI is a production-ready AI-powered mobile application for parents, designed to centralize daily tracking, memories, insights, and personalized support into a single, polished iOS and Android experience.
+NestleAI is an AI-powered mobile application for parents, designed to centralize daily tracking, memories, insights, and personalized support.
 </p>
 
 
