@@ -1,4 +1,4 @@
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner (8)](https://github.com/jdamon91/jdamon91/assets/67440753/44593331-7b3d-4f08-afdf-8ec0cdf175b3)
+<img width="1188" height="297" alt="banner" src="https://github.com/user-attachments/assets/58c26eeb-00d0-41ed-9286-5172a18df942" />
 
 <p>
   Founder-engineer and technical leader building AI-driven mobile products in production 🤖📱. I specialize in React Native and modern mobile development, with deep full-stack experience across TypeScript, Node.js, and scalable backend systems.
