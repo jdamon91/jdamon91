@@ -1,137 +1,164 @@
 <img width="1188" height="297" alt="banner" src="https://github.com/user-attachments/assets/58c26eeb-00d0-41ed-9286-5172a18df942" />
 
-<p>
-  Founder-engineer and technical leader building AI-driven mobile products in production 🤖📱. I specialize in React Native and modern mobile development, with deep full-stack experience across TypeScript, Node.js, and scalable backend systems.
-</p>
-<p>
-  I focus on leading teams, setting technical direction, and turning complex product ideas into reliable, user-centric software 🚀. My work blends strong engineering execution, product thinking, and applied AI, with a bias toward ownership, mentorship, and building systems that scale with people and impact 🧠🛠️.
-</p>
+# Joshua Damon
 
-## My Portfolio
+Founder-engineer and technical leader focused on **AI infrastructure, distributed systems, platform engineering, and secure backend architecture**.
 
-### NestleAI 
+I build and scale production-grade mobile and backend systems across consumer and healthcare platforms, with a focus on reliability, observability, cloud-connected architecture, and secure AI-powered experiences.
+
+---
+
+## Current Focus
+
+- AI Infrastructure
+- Distributed Systems
+- Platform Engineering
+- Secure Backend Architecture
+- Observability & Reliability
+- Cloud-Native Systems
+- AI Security Engineering
+
+---
+
+## Core Stack
+
+**Languages:** TypeScript, JavaScript, Go, Python, SQL  
+**Backend & Data:** Node.js, PostgreSQL, MongoDB, Redis, REST APIs  
+**Infrastructure:** Docker, Kubernetes, AWS, CI/CD, Cloud Infrastructure  
+**Systems:** Distributed Systems, Event-Driven Architecture, Platform Reliability  
+**AI & Security:** AI Platform Architecture, Secure AI Systems, RBAC, AuthN/AuthZ  
+**Frontend:** React Native, React, Expo, Mobile Architecture  
+
+---
+
+## Featured Systems & Projects
+
+### NestleAI — Founder & Lead Engineer
+
+**Production AI platform for modern parenting**  
+**Stack:** React Native, Expo, TypeScript, Node.js, PostgreSQL, AI integrations  
+**Website:** [nestleai.app](https://nestleai.app)  
+**App Store:** [NestleAI](https://apps.apple.com/us/app/nestleai-baby-tracker-ai/id6755543846)
+
+NestleAI is an AI-powered parenting platform designed to support modern families through daily tracking, memories, insights, reminders, and personalized guidance.
+
+**Engineering Focus**
+- Built a production AI platform using React Native and Expo for iOS and Android.
+- Architected backend systems with Node.js and PostgreSQL.
+- Integrated AI workflows, analytics, notifications, authentication, and cloud services.
+- Designed scalable backend architecture supporting intelligent user experiences and real-time platform behavior.
+- Current infrastructure focus includes observability, AI workflow reliability, secure platform design, and scalable backend services.
 
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/46de71f5-8454-47bc-bb62-a8ed7ba0f315" height="300"/>
-<p />
-<p><strong>Role:</strong> Founder & Lead Engineer</p>
-<p><strong>Stack:</strong> React Native, Expo, TypeScript, Node.js, PostgreSQL, AI integrations</p>
-<p><strong>Website:</strong> <a href="https://nestleai.app" target="_blank">https://nestleai.app</a></p>
-<p><strong>App Store: </strong> <a href="https://apps.apple.com/us/app/nestleai-baby-tracker-ai/id6755543846" target="_blank">NestleAI</a></p>
 
-<p>
-NestleAI is an AI-powered mobile application for parents, designed to centralize daily tracking, memories, insights, and personalized support.
-</p>
+---
 
+### Hippo Education — Mobile Platform Engineering Lead
 
-### Hippo Education (Professional)
-<p>https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US&gl=US</p>
+**Large-scale healthcare education platform used by medical professionals nationwide**  
+**Stack:** React Native, TypeScript, Node.js, GraphQL, CI/CD, Analytics, Cloud Services  
+**Play Store:** [Hippo Education](https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US&gl=US)
+
+Hippo Education is a production medical education platform supporting courses, quizzes, user profiles, progress tracking, content delivery, and CME-based learning experiences.
+
+**Engineering Focus**
+- Lead engineering initiatives for large-scale production platforms.
+- Drive technical architecture, platform stability, release strategy, and long-term maintainability.
+- Collaborate with backend systems, authentication services, analytics tooling, and cloud infrastructure.
+- Contribute to platform engineering decisions involving CI/CD, observability, production debugging, performance, and release automation.
+- Support secure application architecture and high-availability user experiences.
+
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/2d8a8f64-f735-4a8d-8634-2a03dedd5a59" height="300"/>
 
-<p>Role: Senior React Native Developer</p>
-<p>Stack: React Native, GraphQL, Node</p>
-<p>Hippo Education is a podcast based listening app geared towards medical professionals looking to expand their knowledge and earn CME accreditation</p>
+---
 
-### ListedB (Professional)
-<p>https://www.listedb.com</p>
+### ListedB — Full Stack Engineer
+
+**Production social booking platform for beauty and wellness services**  
+**Stack:** React Native, TypeScript, Node.js, MongoDB, Firebase, GetStream, Segment
+
+ListedB is a social booking platform supporting user profiles, service discovery, messaging, booking workflows, analytics, and real-time user engagement.
+
+**Engineering Focus**
+- Designed and developed scalable frontend, backend, and middleware systems.
+- Built backend APIs, authentication flows, analytics integrations, and real-time messaging.
+- Contributed to architecture decisions involving scalability, platform performance, distributed communication, and production reliability.
+- Worked across frontend architecture, backend services, deployments, and operational debugging.
+
 <img src="https://user-images.githubusercontent.com/67440753/194155828-52df3153-1b61-4330-8937-6ce3fcdfac36.png" height="300"/>
 
-<p>Role: Full Stack Developer</p>
-<p>Stack: React Native, MongoDB, Node</p>
-<p>ListedB is a social booking app for beauty & wellness services. As a full stack developer I have created and updated new and existing components on the frontend surrounding the social media feed, user profiles, signup process, booking, and more. I have also continued with the expansion and updating of the existing API using mongodb and nodejs.</p>
-<p>
-<img width="705" alt="Modern App Download Promotion Facebook Post" src="https://user-images.githubusercontent.com/67440753/196846884-23b5af5d-ab2d-4ca2-affe-50507411f03e.png">
-<img width="705" alt="Modern App Download Promotion Facebook Post (1)" src="https://user-images.githubusercontent.com/67440753/196846898-ccbba58e-cc40-46cf-93b3-72e841f80f3d.png">
-<img width="705" alt="Modern App Download Promotion Facebook Post (2)" src="https://user-images.githubusercontent.com/67440753/196846905-ccee9a8b-7500-4c3d-8a9c-56ed30414387.png">
+---
 
-### Tail Trail (Personal)
-<img src="https://github.com/jdamon91/jdamon91/assets/67440753/3f9b3f5e-ea5f-4a6b-be0f-13a62e3ebf94" height="300"/>
+### LikeNow — Full Stack Engineer
 
-<p>Role: Creator</p>
-<p>Stack: React Native, Expo, MongoDB, Node</p>
-<p>Tail Trail is a community-focused app designed to reunite lost pets with their owners through the power of collective effort. This platform enables users to quickly post alerts for lost and found pets, incorporating photos, detailed descriptions, and last seen locations to expedite the search process. Tail Trail brings together a network of pet lovers and local volunteers, utilizing direct messaging, map integration, and community engagement features to spread the word and coordinate recovery efforts efficiently. More than just an app, Tail Trail is a commitment to ensuring every lost pet finds their way back to a loving home, supported by the kindness and vigilance of a united community.</p>
-<p>
-<img width="705" alt="Modern App Download Promotion Facebook Post" src="https://github.com/jdamon91/jdamon91/assets/67440753/515c5ecb-f240-4634-b281-22aff6bcd738">
+**Cross-platform marketplace application built from the ground up**  
+**Stack:** React Native, Expo, Firebase, Node.js, Real-Time Messaging
 
+LikeNow connects local contractors and customers through real-time communication, geolocation, reviews, notifications, and service workflows.
 
-### Like Now (Professional)
- <img src="https://user-images.githubusercontent.com/67440753/194156135-4585b45c-f2ed-412c-8ee1-589c035967af.png" height="300"/>
-  <p>Role: Lead Full Stack Developer</p>
-  <p>Stack: React Native, Firebase</p>
-<p>Bringing local contractors and customers together to create a fast paced environment geared towards getting work done ... like now. As a full stack engineer on this project I created the project from scratch using React Native & Firebase. As a professional project we are currently working closely with our design team to put the finishing touches on this application before bringing it to the app store.</p>
+**Engineering Focus**
+- Built and launched a production-ready cross-platform mobile application from scratch.
+- Architected backend systems supporting authentication, geolocation, messaging, notifications, reviews, and real-time communication.
+- Worked with cloud-connected services and backend integrations to support scalable user experiences.
+- Managed deployments, release cycles, debugging, and operational maintenance.
 
-<img width="705" alt="Modern App Download Promotion Facebook Post (3)" src="https://user-images.githubusercontent.com/67440753/196849777-0d062486-c3d6-43e3-b99c-986b763e8230.png">
-<img width="705" alt="Modern App Download Promotion Facebook Post (5)" src="https://user-images.githubusercontent.com/67440753/196849791-921708f0-2eeb-4184-b4ad-ab1b34adddad.png">
-<img width="705" alt="Modern App Download Promotion Facebook Post (4)" src="https://user-images.githubusercontent.com/67440753/196849785-91c30d56-64b6-4e61-bb45-7091b949d0aa.png">
+<img src="https://user-images.githubusercontent.com/67440753/194156135-4585b45c-f2ed-412c-8ee1-589c035967af.png" height="300"/>
 
-### ByteJobs (Personal) (Mobile App)
-<p>Github Repo: https://github.com/jdamon91/ByteJobs-ExpoRouter
-<p>Stack: Expo, Expo Router, React Native</p>
+---
 
-https://github.com/jdamon91/jdamon91/assets/67440753/022b18e6-6474-4ca3-8f90-0391567d4125
+## Infrastructure Lab
 
-<b>Screenshots:</b>
-<p>
-  <img src="https://github.com/jdamon91/jdamon91/assets/67440753/8fd0c60e-ff63-4c3a-ab94-f70e7aece91c" height="500"/>
-<img src="https://github.com/jdamon91/jdamon91/assets/67440753/6478e8b1-93fb-4123-a8f1-134ad72ecc1e" height="500"/>
- <img src="https://github.com/jdamon91/jdamon91/assets/67440753/e108fcfc-45bc-4908-93cc-21f86f290635" height="500"/>
-</p>
+This section will track focused systems and infrastructure projects as I continue building deeper AI infrastructure and platform engineering work.
 
-### The Paw Spot App 2 (Personal)
-<p>
-<img src="https://user-images.githubusercontent.com/67440753/194156260-962b8dc5-40e5-4375-b8a5-8d971c0d4e82.png" height="300"/>
-    <p>Stack: React Native, Firebase</p>
-<p>Creating a platform that focuses entirely on animals! A personal project built in React Native and powered by Firebase. Features within the app include interactive maps, the ability to donate to a pet in need, adoption pages, accounts for shelters and professional organizations, and much more!</p>
-<p>
-</p>
-  
-  ### Waferly (Professional)
-   <p>Role: Lead Full Stack Developer</p>
-   <p>Stack: React, Java</p>
-<p>A financial analysis suite built for startup companies to accurately track and project organizational KPI's, predicted growth, and much more. A react based application powered by a Java backend. D3 driven analytical charts and graphs give users a visual representation of every aspect of their business.</p>
-<p>
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/x2zcglev9ho9tnewljrm.png" width="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/zk8ta9khglsqeiu8apw1.png" width="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001017/app/nnti7myagqj5ck4qyz51.png" width="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1629001016/app/yjbigfrejkddx4oaw7jj.png" width="400"/>
-</p>
- 
-### The PawSpot App (Personal) (Mobile App)
-<p>Live App: https://y-delta-pearl.vercel.app</p>
-<p>Stack: React, Node, Express</p>
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472515/app/lfyiyxkrhdm9jyqrpyxb.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472527/app/diniortrfkjnxgtwlvw1.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472533/app/trmpgpbofkj47mgrndai.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618472548/app/yfjzgmvm0bqlyb1bjftf.jpg" height="400"/>
-</p>
-  
-### Be Inspired Social Media App (Personal)
-<p>Live App: https://be-inspired.vercel.app</p>
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/yhuey5wtny0rfdhkp0fi.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/ktb9wy2cne7xhmw7riuc.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/bz4gzp0ubofir58acskf.jpg" height="400"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618463855/app/kv9wupzesd82zgyy4xyx.jpg" height="400"/>
-</p>
+### Coming Soon
 
-### PuppyLove Dating App (Personal)
-<p>Live App: https://puppylove.vercel.app/</p>
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/bhlfdyekwb1b3oiv3rap.jpg" class="m-5 d-inline-block" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/d9cwobut3fzo4ryrc0w6.jpg" class="m-5 d-inline-block" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/gynpyojbxjqbncybn7n4.jpg" class="m-5 d-inline-block" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618464145/app/p5donpm5xktfs0bq5rp5.jpg" class="m-5 d-inline-block" height="375"/>
-</p>
+- **AI Gateway Platform**  
+  Multi-provider AI gateway with model routing, auth, rate limiting, usage tracking, streaming responses, retries, and observability.
 
-### Furever Friends Pet Adoption App (Personal)
-<p>Live App: https://jwebb8137.github.io/Furever-Friends/</p>
-<p>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466425/app/ftcuzsokntwuzggeduey.jpg" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466437/app/wykewteao1xrkxqegcfq.jpg" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466645/app/r16gb7gmdrmkce7n2eic.jpg" height="375"/>
-  <img src="https://res.cloudinary.com/dvkqz0fed/image/upload/v1618466487/app/lkdryosjeujerlsbskmf.jpg" height="375"/>
-</p>
+- **Distributed Job Queue System**  
+  Go-based worker system with retries, dead-letter queues, metrics, logging, and Redis/PostgreSQL persistence.
 
+- **Observability Stack**  
+  Prometheus, Grafana, OpenTelemetry, structured logging, dashboards, tracing, and alerting for production-style services.
 
+- **Secure AI Agent Platform**  
+  Tool execution boundaries, RBAC, audit logging, policy enforcement, sandboxing concepts, and secure AI workflow design.
 
+---
+
+## Writing & Notes
+
+I write about the systems layer behind modern AI products, including infrastructure, observability, security, distributed systems, and platform engineering.
+
+### Featured Topics
+
+- Security Considerations for AI Agents
+- Why AI Systems Are Becoming Infrastructure
+- Observability for AI-Powered Products
+- Building Secure AI Workflows
+- Distributed Systems Lessons from Production Apps
+- Platform Engineering for Intelligent Systems
+
+---
+
+## Engineering Philosophy
+
+I care about building systems that are:
+
+- Reliable in production
+- Observable under failure
+- Secure by design
+- Scalable as usage grows
+- Maintainable over time
+- Useful to real people
+
+My goal is to operate at the intersection of **AI infrastructure, distributed systems, platform engineering, and security** while continuing to build production systems that solve real-world problems.
+
+---
+
+## Connect
+
+**LinkedIn:** [LinkedIn](YOUR_LINKEDIN_URL)  
+**GitHub:** [GitHub](https://github.com/jdamon91)  
+**Portfolio:** Coming soon  
+**NestleAI:** [nestleai.app](https://nestleai.app)
