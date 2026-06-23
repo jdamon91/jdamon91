@@ -1,3 +1,5 @@
+<img width="1188" height="297" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/12500429-0176-4c72-9dc7-6feaa4b952d5" />
+
 # Joshua Damon
 
 Senior React Native engineer, mobile technical leader, and founder-engineer building scalable mobile applications, backend systems, and AI-powered products.
