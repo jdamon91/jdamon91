@@ -90,5 +90,7 @@ My goal is to build exceptional mobile experiences while helping shape the next 
 ## Connect
 
 **LinkedIn:** https://www.linkedin.com/in/jdamon919 
+
 **GitHub:** https://github.com/jdamon91  
+
 **NestleAI:** https://nestleai.app
