@@ -46,13 +46,25 @@ Over the past several years I've led mobile engineering initiatives in healthcar
 
 **Stack:** React Native • TypeScript • GraphQL • Node.js • Analytics • CI/CD • AWS
 
+**App Store:** https://apps.apple.com/us/app/hippo-education/id1552750034
+
+**Google Play:** https://play.google.com/store/apps/details?id=com.hippoed.universal.app&hl=en_US
+
 ### Engineering Focus
 
-- Lead mobile engineering initiatives across large-scale React Native applications serving thousands of healthcare professionals.
-- Own mobile architecture, release strategy, technical direction, and long-term platform health.
+- Lead mobile engineering initiatives across large-scale React Native applications used by thousands of physicians, nurse practitioners, physician assistants, and other healthcare professionals nationwide.  [oai_citation:0‡Hippo Education](https://home.hippoed.com/?utm_source=chatgpt.com)
+
+- Own mobile architecture, technical direction, release strategy, and long-term platform health.
+
 - Reduced peak crash rates from approximately **10% to under 1%**, dramatically improving application stability and user experience.
+
+- Led the migration through multiple major React Native and Expo SDK upgrades while modernizing the mobile platform architecture.
+
+- Built and shipped offline-first media playback, native course experiences, AI-powered features, and numerous performance improvements across iOS and Android.
+
 - Drive performance optimization, observability, production debugging, release automation, and developer experience improvements.
-- Partner closely with product, backend, and design teams to deliver reliable, scalable mobile experiences.
+
+- Collaborate closely with product, design, backend, and platform teams to deliver reliable, scalable mobile experiences used in production every day.
 
 <img src="https://github.com/jdamon91/jdamon91/assets/67440753/2d8a8f64-f735-4a8d-8634-2a03dedd5a59" height="300"/>
 
